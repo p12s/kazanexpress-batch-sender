@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/p12s/wildberries-http-api/service"
+	"github.com/p12s/kazanexpress-batch-sender/service"
 	"log"
 	"math"
 	"time"
